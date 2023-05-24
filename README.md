@@ -140,11 +140,9 @@ top 실행 후 명령어
 <h1 align="center"> 🛠 Jobs 🛠 </h1>
 
 
-```bash
-# tail -f /var/log/syslog
-. . . .
-[1]+  Stopped                 tail -f /var/log/syslog
 
-# tail -f /var/log/syslog &
-[2] 464975
-. . . .
+# Jobs 명령어는 백그라운드로 실행중인 프로세스나 현재 중지된 프로세스를 보여줌
+
+
+
+
