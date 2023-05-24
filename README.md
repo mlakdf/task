@@ -10,3 +10,4 @@
 * -b(batch 모드) : 순간의 정보를 알려줌
 * -n(반복횟수) : 기본 3초 주기를 -n 옵션으로 바꿀수 있음
 
+https://www.dropbox.com/s/6nnakv6e4j2ojji/Screenshot%202018-07-18%2020.25.32.png?raw=1
