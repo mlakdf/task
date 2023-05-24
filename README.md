@@ -130,3 +130,21 @@ top 실행 후 명령어
     * top -b 옵션이랑 ps랑 큰 차이가 없는거 같음
     * 사실상 상위 명령어가 top 인듯 함
 
+
+---
+
+
+---
+
+
+<h1 align="center"> 🛠 Jobs 🛠 </h1>
+
+
+```bash
+# tail -f /var/log/syslog
+. . . .
+[1]+  Stopped                 tail -f /var/log/syslog
+
+# tail -f /var/log/syslog &
+[2] 464975
+. . . .
