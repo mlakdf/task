@@ -66,7 +66,7 @@ top 실행 후 명령어
 > ps -efl 명령어를 쓴 예시
 
 
-<img width="300" height="230" align="left" alt="스크린샷 2018-07-18 20 25 32" src="https://github.com/mlakdf/task/assets/133843608/f3a4dd84-eeae-4183-ba9a-1f588ccf2594">
+![스크린샷, 2023-05-24 12-31-12](https://github.com/mlakdf/task/assets/133843608/f1e64bdd-9104-4bd6-8c48-13ee5eb8f14e)
 
 > S:프로세스의 현재 상태
 
@@ -104,7 +104,8 @@ top 실행 후 명령어
 > TIME: 사용된 CPU시간
 
 
-> CMD: 
+> CMD: 실행된 프로세스의 이름 혹은 실행된 명령
+
 
 
 
