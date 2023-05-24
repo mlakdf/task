@@ -144,9 +144,61 @@ top 실행 후 명령어
 # Jobs 명령어는 백그라운드로 실행중인 프로세스나 현재 중지된 프로세스를 보여줌
 > jobs 명령어는 각 작업에 번호가 붙는데 나중에 kill 명령어 뒤에 '%번호'등으로 사용할 수 있다.
 
-* jobs [옵션] [번호] 
+
+> ![스크린샷, 2023-05-24 15-26-52](https://github.com/mlakdf/task/assets/133843608/8415d8e4-49a8-4f4f-b94b-82e57e463590)
 
 
 
+* jobs [옵션] [번호] 위에 사진은 jobs 명령어를 사용한거다.
+
+
+**상태 설명**
+
+
+> Running 작업이 계속 진행중임
+
+
+> Done 작업이 완료되어 0을 반환
+
+
+> Done(code) 작업이 완료되어 0이 아닌 코드를 반환
+
+
+> Stopped 작업이 일시 중단
+
+
+>>Stopped(SIGTSTP) SIGTSTP 시그널이 작업을 일시 중단
+
+
+>>Stopped(SIGSTOP) SIGSTOP 시그널이 작업을 일시 중단
+
+
+>>Stopped(SIGTTIN) SIGTTIN 시그널이 작업을 일시 중단
+
+
+>>Stopped(SIGTTOU) SIGTTOU 시그널이 작업을 일시 중단  
+
+---
+
+* jobs 옵션 종류
+
+
+* -l 프로세스 그룹 ID를 state 필드 앞에 출력
+
+* -n  프로세스 그룹 중에 대표 프로세스 ID를 출력
+
+* -p  각 프로세스 ID에 대해 한 행씩 출력
+
+* command 지정한 명령어를 실행
+
+---
+---
+
+
+<h1 align="center"> 🛠 Kill 🛠 </h1>
+
+
+# Kill 프로세스를 지정해 제어하는 명령어
+> 주로 프로세스를 종료하는 용도로 많이 사용
 
 
