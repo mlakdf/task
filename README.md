@@ -203,4 +203,10 @@ top 실행 후 명령어
 >> 2번째로 알아본 **PS명령어를 통해 pid를 얻고** kill 명령어의 인자로 넘기면 가능 
 
 
+* ps -ef | grep node 를 쓴 사진
+
+
+![123](https://github.com/mlakdf/task/assets/133843608/11951892-decb-43c4-97d4-c87ad9e2edf7)
+
+
 
