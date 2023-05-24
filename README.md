@@ -63,8 +63,11 @@ top 실행 후 명령어
 * -e: 다른 사용자들이 구동시킨 모든 프로세스를 보여줌
 * -f: 보다 상세하게 정보를 보여줌(Full)
 * -l: -f보다 더 상세하게 보여줌(Long)
+
+
 > ps -efl 명령어를 쓴 예시
-<img width="300" height="230" align="left" alt="스크린샷 2018-07-18 20 25 32" src="https://github.com/mlakdf/task/assets/133843608/96956da6-336a-42a6-846b-4d679b0c9811">
+
+![스크린샷, 2023-05-24 12-31-12](https://github.com/mlakdf/task/assets/133843608/f1e64bdd-9104-4bd6-8c48-13ee5eb8f14e)
 
 
 > S:프로세스의 현재 상태
